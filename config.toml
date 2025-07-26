@@ -2,6 +2,9 @@
 SIMILARITY_MEASURE = "cosine" # "cosine" or "dot"
 KEEP_ALIVE = "5m" # How long to keep Ollama models loaded into memory. (Instead of using -1 use "-1m")
 
+[MODELS.GROQ]
+API_KEY = "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"
+
 [MODELS.GEMINI]
 API_KEY = "AIzaSyCsfF7UAxLpd8N4jjQdsk4o1HABSLwFzBw"
 
