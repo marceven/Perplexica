@@ -12,7 +12,7 @@ API_KEY = ""
 API_KEY = ""
 
 [MODELS.GEMINI]
-API_KEY = ""
+API_KEY = "AIzaSyCsfF7UAxLpd8N4jjQdsk4o1HABSLwFzBw"
 
 [MODELS.CUSTOM_OPENAI]
 API_KEY = ""
@@ -32,4 +32,4 @@ API_KEY = "" # Required to use AI/ML API chat and embedding models
 API_URL = "" # LM Studio API URL - http://host.docker.internal:1234
 
 [API_ENDPOINTS]
-SEARXNG = "" # SearxNG API URL - http://localhost:32768
+SEARXNG = "https://searxng.coolify.infoboi.site/" # SearxNG API URL - http://localhost:32768
